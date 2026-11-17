@@ -32,11 +32,22 @@ Analysis Features
 * Yearly trading volume analysis.
 * Interactive financial performance indicators.
 
-Project Files
+Project Structure
 
-* PowerBI/ – Power BI report file (.pbix).
-* Data/ – Dataset information and related files.
-* Screenshots/ – Dashboard screenshots.
+AlRajhi-Bank-Stock-Analysis/
+│
+├── Data/
+│   └── README.md
+│
+├── PowerBI/
+│   ├── AlRajhi-Bank-Stock-Analysis.pbix
+│   └── README.md
+│
+├── Screenshots/
+│   ├── Dashboard.png
+│   └── README.md
+│
+└── README.md
 
 Data Coverage
 
