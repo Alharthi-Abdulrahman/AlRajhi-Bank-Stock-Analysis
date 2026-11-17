@@ -47,11 +47,26 @@ The objective is to analyze historical stock price movements, investment returns
 - Annual trading volume comparison.
 - Analysis of historical trading activity.
 
+## Data Source
+
+The dataset was obtained from Kaggle:
+
+- **Dataset:** Al Rajhi Bank Stock Data Analysis (2010–2025)
+- **Author:** Hassan Jameel Ahmed
+- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/hassanjameelahmed/al-rajhi-stock-data-analysis-20102025)
+- **Stock Symbol:** 1120.SR
+- **Coverage:** March 2010 – December 2025
+- **Records:** 3,926 daily trading records
+- **File:** `Data/AL_Rjehei.csv`
+
+The original CSV dataset is included in this repository for reference and reproducibility.
+
 ## Project Structure
 
 AlRajhi-Bank-Stock-Analysis/
 │
 ├── Data/
+│   └── AL_Rjehei.csv
 │
 ├── PowerBI/
 │   └── Power BI Project File (.pbix)
@@ -63,10 +78,10 @@ AlRajhi-Bank-Stock-Analysis/
 
 ## Data Coverage
 
-- Company: Al Rajhi Bank
-- Stock Symbol: 1120
-- Exchange: Saudi Exchange (Tadawul)
-- Analysis Period: January 2010 – December 2025
+- **Company:** Al Rajhi Bank
+- **Stock Symbol:** 1120.SR
+- **Exchange:** Saudi Exchange (Tadawul)
+- **Analysis Period:** January 2010 – December 2025
 
 ## Disclaimer
 
