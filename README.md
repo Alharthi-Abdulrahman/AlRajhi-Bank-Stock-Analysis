@@ -4,15 +4,27 @@
 
 This project presents a historical analysis of Al Rajhi Bank's stock market performance from 2010 to 2025 using Microsoft Power BI.
 
-The objective is to analyze historical stock price movements, investment returns, and trading activity through an interactive dashboard that transforms historical market data into meaningful insights.
+The objective is to analyze historical stock price movements, investment returns, and trading activity through an interactive dashboard that transforms raw historical market data into meaningful insights.
 
 ## Tools & Technologies
 
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Microsoft Excel
+- Data Cleaning & Preparation
 - Data Analysis
 - Data Visualization
+
+## Project Highlights
+
+- **Raw Data Processing:** Worked with raw historical stock market data and prepared it for analysis.
+- **Data Cleaning & Preparation:** Cleaned and transformed the dataset to improve data consistency and analytical readiness.
+- **Financial KPI Development:** Created financial performance measures using DAX.
+- **Historical Stock Analysis:** Analyzed long-term stock price movements from 2010 to 2025.
+- **Moving Average Analysis:** Implemented a 200-Day Moving Average to examine long-term price trends.
+- **Investment Performance Analysis:** Calculated Period Return, CAGR, and Annual Returns.
+- **Trading Volume Analysis:** Examined historical trading activity and annual volume patterns.
+- **Interactive Dashboard Development:** Built an interactive Power BI dashboard to present financial data and performance indicators.
 
 ## Key Performance Indicators (KPIs)
 
@@ -85,4 +97,4 @@ AlRajhi-Bank-Stock-Analysis/
 
 ## Disclaimer
 
-This project is intended for educational and analytical purposes only. It does not constitute financial advice or a recommendation to buy or sell any financial instrument.
+This project is intended for educational and portfolio purposes only. It does not constitute financial advice or a recommendation to buy or sell any financial instrument.
