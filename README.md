@@ -24,10 +24,6 @@ Key Performance Indicators (KPIs)
 
 Dashboard Preview
 
-Main Dashboard
-
-Key Insights
-
 Analysis Features
 
 * Historical stock price trends.
