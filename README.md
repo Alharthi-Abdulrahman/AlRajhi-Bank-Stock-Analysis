@@ -1,51 +1,53 @@
-Al Rajhi Bank Stock Analysis (2010–2025)
+# Al Rajhi Bank Stock Analysis (2010–2025)
 
-Project Overview
+## Project Overview
 
-This project analyzes the historical stock performance of Al Rajhi Bank (Tadawul: 1120) from January 2010 to December 2025 using Microsoft Power BI.
+This project presents a historical analysis of Al Rajhi Bank's stock market performance from 2010 to 2025 using Microsoft Power BI.
 
-The goal is to transform historical stock market data into an interactive dashboard that helps users explore price movements, investment returns, trading activity, and long-term performance.
+The objective is to analyze historical stock price movements, investment returns, and trading activity through an interactive dashboard that transforms historical market data into meaningful insights.
 
-Tools & Technologies
+## Tools & Technologies
 
-* Microsoft Power BI – Dashboard development and data visualization
-* DAX – Measures and financial performance calculations
-* Microsoft Excel – Data preparation and organization
-* Data Analysis – Historical trend analysis and performance evaluation
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
-The dashboard includes the following indicators:
+- Latest Closing Price
+- Period Return (%)
+- Compound Annual Growth Rate (CAGR)
+- Maximum Stock Price
+- Minimum Stock Price
+- Total Trading Volume
 
-* Latest Closing Price
-* Period Return (%)
-* Compound Annual Growth Rate (CAGR)
-* Maximum Stock Price
-* Minimum Stock Price
-* Total Trading Volume
+## Dashboard Preview
 
-Dashboard Preview
+![Al Rajhi Bank Dashboard](https://raw.githubusercontent.com/Alharthi-Abdulrahman/AlRajhi-Bank-Stock-Analysis/main/Screenshots/Dashboard.png)
 
-Analysis Features
+## Analysis Features
 
-1. Historical Price Analysis
+### 1. Historical Stock Price Analysis
 
-* Stock price trends over the selected period.
-* 200-Day Moving Average to help identify long-term trends.
-* Historical maximum and minimum prices.
+- Historical stock price trends from 2010 to 2025.
+- 200-Day Moving Average to examine long-term price trends.
+- Identification of maximum and minimum stock prices.
 
-2. Investment Performance
+### 2. Investment Performance Analysis
 
-* Period Return (%).
-* Compound Annual Growth Rate (CAGR).
-* Annual Return (%) to compare yearly performance.
+- Period Return (%) to measure stock performance over the selected period.
+- CAGR to evaluate the annualized growth rate.
+- Annual Return (%) to compare yearly performance.
 
-3. Trading Activity
+### 3. Trading Volume Analysis
 
-* Total trading volume.
-* Annual trading volume comparison.
+- Total trading volume.
+- Annual trading volume comparison.
+- Analysis of historical trading activity.
 
-Project Structure
+## Project Structure
 
 AlRajhi-Bank-Stock-Analysis/
 │
@@ -59,13 +61,13 @@ AlRajhi-Bank-Stock-Analysis/
 │
 └── README.md
 
-Data Coverage
+## Data Coverage
 
-* Company: Al Rajhi Bank
-* Ticker: 1120
-* Exchange: Saudi Exchange (Tadawul)
-* Period: January 2010 – December 2025
+- Company: Al Rajhi Bank
+- Stock Symbol: 1120
+- Exchange: Saudi Exchange (Tadawul)
+- Analysis Period: January 2010 – December 2025
 
-Disclaimer
+## Disclaimer
 
-This project is intended for educational and analytical purposes only. It does not constitute investment advice or a recommendation to buy or sell any financial instrument.
+This project is intended for educational and analytical purposes only. It does not constitute financial advice or a recommendation to buy or sell any financial instrument.
