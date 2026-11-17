@@ -35,18 +35,14 @@ Analysis Features
 Project Structure
 
 AlRajhi-Bank-Stock-Analysis/
-│
 ├── Data/
 │   └── README.md
-│
 ├── PowerBI/
 │   ├── AlRajhi-Bank-Stock-Analysis.pbix
 │   └── README.md
-│
 ├── Screenshots/
 │   ├── Dashboard.png
 │   └── README.md
-│
 └── README.md
 
 Data Coverage
